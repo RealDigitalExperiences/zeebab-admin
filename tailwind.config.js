@@ -158,8 +158,8 @@ module.exports = {
           90: "#1E3A8A",
         },
         vice: {
-          start: "#7C53FF",
-          stop: "#F796FF",
+          start: "#0047AB",
+          stop: "#5ED653",
         },
       },
       heigth: {

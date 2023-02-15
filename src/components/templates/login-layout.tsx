@@ -7,7 +7,7 @@ const LoginLayout = ({ children }) => {
         <div
           className="flex flex-col items-center"
           style={{
-            background: "linear-gradient(73.29deg, #7C53FF 0%, #F796FF 100%)",
+            background: "linear-gradient(73.29deg, #0047AB 0%, #5ED653 100%)",
           }}
         >
           {children}
@@ -15,7 +15,7 @@ const LoginLayout = ({ children }) => {
             © Zeebab Commerce <span>&#183;</span>{" "}
             <a
               style={{ color: "inherit", textDecoration: "none" }}
-              href="mailto:hello@medusajs.com"
+              href="mailto:frikan@realcode.com"
             >
               Contact
             </a>
