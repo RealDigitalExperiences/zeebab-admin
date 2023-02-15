@@ -12,7 +12,7 @@ const LoginLayout = ({ children }) => {
         >
           {children}
           <div className="text-grey-0 inter-base-regular pb-12">
-            © Medusa Commerce <span>&#183;</span>{" "}
+            © Zeebab Commerce <span>&#183;</span>{" "}
             <a
               style={{ color: "inherit", textDecoration: "none" }}
               href="mailto:hello@medusajs.com"
