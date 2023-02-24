@@ -174,7 +174,7 @@ const AnalyticsProvider = ({ writeKey, children }: Props) => {
         setSubmittingConfig,
       }}
     >
-      {askPermission && (
+      {false && askPermission && (
         <Fade isVisible={animateIn} isFullScreen={true}>
           <AnalyticsPreferencesModal />
         </Fade>
