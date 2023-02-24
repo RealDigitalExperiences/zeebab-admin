@@ -203,8 +203,8 @@ const InvitePage = () => {
                 You have been invited to join the team
               </h1>
               <p className="inter-xlarge-regular text-grey-50">
-                You can now join the Medusa Store team. Sign up below and get
-                started with your Medusa Admin account right away.
+                You can now join the Zeebab Store team. Sign up below and get
+                started with your Zeebab Admin account right away.
               </p>
             </div>
             <div className="mt-4xlarge">
